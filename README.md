@@ -1,4 +1,4 @@
-# js-22
+# js-Dom
 
 - Объекты window и document
 - Поиск DOM-узлов с querySelector и querySelectorAll
