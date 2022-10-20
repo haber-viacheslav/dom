@@ -121,7 +121,16 @@ const heroTitle = document.querySelector('.hero__title');
 
 //  Полезная возможность безопасно перезаписать текст
 
-const titleTextContent = heroTitle.textContent;
-console.log(titleTextContent);
+// const titleTextContent = heroTitle.textContent;
+// console.log(titleTextContent);
 
-heroTitle.textContent = `${titleTextContent} and drinks`;
+// heroTitle.textContent = `${titleTextContent} and drinks`;
+
+// const divEl = document.querySelector('.js-elem');
+// console.log(divEl);
+
+// const listEl = document.querySelectorAll('.nav-menu');
+// console.log(listEl);
+
+// const itemEl = document.createElement('li');
+// listEl.append(itemEl);
